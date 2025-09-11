@@ -25,7 +25,7 @@ int main(){
     cout<<"Maximum Element of the array is -> "<<Max_Element;
 }
 
-OUTPUT:-
-Enter size of the array -> 7
-Enter array elements -> 1 24 63 968 525 536 41    
-Maximum Element of the array is -> 968
+// OUTPUT:-
+// Enter size of the array -> 7
+// Enter array elements -> 1 24 63 968 525 536 41    
+// Maximum Element of the array is -> 968
